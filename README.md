@@ -20,4 +20,6 @@ In addition to creating applications, I enjoy mentoring and helping beginner dev
       I love dogs and enjoy all kinds of good music.
       
       - 🔍 Availability:
-      I’m also available for full-time Frontend Engineering roles. Contact me!.
+      I’m also available for full-time Frontend Engineering roles.
+      Contact me @ 
+alegbeyemi@gmail.com
