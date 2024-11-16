@@ -6,8 +6,9 @@ Hello, my name is Bernard Ofoegbu.
 
 👋 My name is Mojisola! 😄 👋
 
-![Uploading Screenshot 2024-11-16 at 14.53.43.png…]()
-
+<div align="center">
+<img width="459" alt="Screenshot 2024-11-16 at 14 53 43" src="https://github.com/user-attachments/assets/cfbfeef9-da7f-4c0e-8878-cad004031764">
+</div>
 
 ---
 
