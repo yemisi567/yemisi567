@@ -4,16 +4,34 @@ Hello, my name is Bernard Ofoegbu.
 
 # Hey there! Welcome to my GitHub Profile! ✨
 
-👋 My name is Bernard! 😄 👋
+👋 My name is Mojisola! 😄 👋
 
-<div align="center">
-    <img width="90%" src="https://github.com/O-BERNARDOFOEGBU/O-BERNARDOFOEGBU/assets/65433039/d7516c98-6cc3-4095-9651-b27f68403522">
-</div>
+
 
 ---
 
 📖 **About Me**  
-As a passionate and detail-oriented software engineer, I thrive on building scalable, efficient, and user-centric web applications. With over 5 years of experience, I have honed my skills in **React.js**, **Next.js**, **Vue.js**, and other cutting-edge technologies. I've worked across industries like **fintech**, **edtech**, **e-commerce**, **mobility**, and **entertainment**.
+I am a Frontend Developer who loves building software solutions that run on web devices and mobile devices!
+
+In addition to creating applications, I enjoy mentoring and helping beginner developers, and improving myself.
+  # - 📚 Learning:
+  Exploring best practices in frontend development.
+  
+  # - 🌟 Mentorship:
+  Actively contributing through one-on-one sessions with beginners.
+  
+  - 🤝 Collaboration:
+  Looking to collaborate on innovative solutions.
+  
+  - 👩‍💼 Pronouns:
+  She/Her
+  
+  - 🎵 Fun Fact:
+  I love dogs and enjoy all kinds of good music.
+  
+  - 🔍 Availability:
+  I’m also available for full-time Frontend Engineering roles.
+  Contact me @ 
 
 🛠 **Skills & Projects**  
 I’ve collaborated with cross-functional teams to deliver seamless digital solutions, integrating APIs and optimizing user interfaces for performance and accessibility. My recent exploration of **AI-driven applications**, including building chatbots and voice assistants, reflects my commitment to continuous learning.
