@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi, I'm Mojisola 🤵‍♀️
 
-<!--
-**yemisi567/yemisi567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I am a Frontend Developer who loves building software solutions that run on web devices and mobile devices!
 
-Here are some ideas to get you started:
+In addition to creating applications, I enjoy mentoring and helping beginner developers, and improving myself.
+  - 📚 Learning:
+  Exploring best practices in frontend development.
+  
+  - 🌟 Mentorship:
+  Actively contributing through one-on-one sessions with beginners.
+  
+  - 🤝 Collaboration:
+  Looking to collaborate on innovative solutions.
+  
+  - 👩‍💼 Pronouns:
+  She/Her
+  
+  - 🎵 Fun Fact:
+  I love dogs and enjoy all kinds of good music.
+  
+  - 🔍 Availability:
+  I’m also available for full-time Frontend Engineering roles.
+  Contact me @ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+alegbeyemi@gmail.com
+
+
+
