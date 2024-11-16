@@ -2,10 +2,6 @@
 
 👋 My name is Mojisola! 😄 👋
 
-<div align="center">
-<img width="459" alt="Screenshot 2024-11-16 at 14 53 43" src="https://github.com/user-attachments/assets/cfbfeef9-da7f-4c0e-8878-cad004031764">
-</div>
-
 ---
 
 📖 **About Me**  
@@ -46,6 +42,13 @@ In addition to creating applications, I enjoy mentoring and helping beginner dev
     <a href="https://kubernetes.io/" title="Kubernetes" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" alt="kubernetes" width="40" height="40"/></a>
     <a href="https://www.postman.com/" title="Postman" target="_blank"><img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman" width="40" height="40"/></a>
 </div>
+
+----
+
+<div align="center">
+<img width="459" alt="Screenshot 2024-11-16 at 14 53 43" src="https://github.com/user-attachments/assets/cfbfeef9-da7f-4c0e-8878-cad004031764">
+</div>
+
 
 ---
 
