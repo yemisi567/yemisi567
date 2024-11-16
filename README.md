@@ -6,6 +6,7 @@ Hello, my name is Bernard Ofoegbu.
 
 👋 My name is Mojisola! 😄 👋
 
+![Uploading Screenshot 2024-11-16 at 14.53.43.png…]()
 
 
 ---
@@ -34,9 +35,7 @@ In addition to creating applications, I enjoy mentoring and helping beginner dev
 
 ---
 
-## 🛠 Technologies and Tools
-
-📖 I have been learning and exploring these tools and languages:
+## 🛠 Some Favortite Technologies and Tools
 
 <div align="center"> 
     <a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
@@ -72,7 +71,4 @@ In addition to creating applications, I enjoy mentoring and helping beginner dev
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yemisi567&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
 
-<!-- Profile Visitors -->
-![](https://visitor-badge.laobi.icu/badge?page_id=yemisi567.yemisi567)
