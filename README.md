@@ -11,13 +11,13 @@ Hello, my name is Bernard Ofoegbu.
 ---
 
 📖 **About Me**  
-I am a Frontend Developer who loves building software solutions that run on web devices and mobile devices!
+I am a Frontend Heavy FullStack Software Engineer who loves building software solutions that run on web devices and mobile devices!
 
 In addition to creating applications, I enjoy mentoring and helping beginner developers, and improving myself.
-  # - 📚 Learning:
+  - 📚 Learning:
   Exploring best practices in frontend development.
   
-  # - 🌟 Mentorship:
+  - 🌟 Mentorship:
   Actively contributing through one-on-one sessions with beginners.
   
   - 🤝 Collaboration:
@@ -30,20 +30,7 @@ In addition to creating applications, I enjoy mentoring and helping beginner dev
   I love dogs and enjoy all kinds of good music.
   
   - 🔍 Availability:
-  I’m also available for full-time Frontend Engineering roles.
-  Contact me @ 
-
-🛠 **Skills & Projects**  
-I’ve collaborated with cross-functional teams to deliver seamless digital solutions, integrating APIs and optimizing user interfaces for performance and accessibility. My recent exploration of **AI-driven applications**, including building chatbots and voice assistants, reflects my commitment to continuous learning.
-
-🔮 **What Drives Me**  
-Driven by a passion for innovation, I take pride in writing clean, maintainable code and leading projects to successful completion. I am always pushing the boundaries of what’s possible with technology. 🔮
-
-📖 I _love_ learning new technologies by building from scratch step-by-step and working on real-world projects as part of my day-to-day job.
-
-<div align="center">
-    <img width="60%" src="https://github.com/O-BERNARDOFOEGBU/O-BERNARDOFOEGBU/assets/65433039/cce68e13-7953-434b-a0c0-4ecc22bec058">
-</div>
+  I’m also available for full-time Frontend/Fullstack Engineering roles.
 
 ---
 
