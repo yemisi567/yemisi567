@@ -1,7 +1,3 @@
-<!--
-Hello, my name is Bernard Ofoegbu.
--->
-
 # Hey there! Welcome to my GitHub Profile! ✨
 
 👋 My name is Mojisola! 😄 👋
