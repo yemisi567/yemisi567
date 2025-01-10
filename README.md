@@ -1,6 +1,6 @@
-# Hey there! Welcome to my GitHub Profile! ✨
+# Hey there! Welcome to my GitHub Profile! 👋 My name is Mojisola Alegbe! 😄 👋✨
 
-👋 My name is Mojisola! 😄 👋
+
 
 ---
 
