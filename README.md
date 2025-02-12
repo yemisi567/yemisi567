@@ -68,6 +68,6 @@ In addition to creating applications, I enjoy mentoring and helping beginner dev
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yemisi567&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![](https://github-profile-trophy.vercel.app/?username=yemisi567&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github-profile-trophy.vercel.app/?username=yemisi567)
 
 
