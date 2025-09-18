@@ -59,7 +59,7 @@ In addition to creating applications, I enjoy mentoring and helping beginner dev
   <img style="flex: 1 1 0; width: 48%; height: 195px;" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=yemisi567&theme=dark&background=000000&hide_border=false&layout=compact">
 </div>
-
+![Mojisola's GitHub stats](https://github-readme-stats.vercel.app/api?username=yemisi567&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 <p align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=yemisi567&theme=dark&background=000000&custom_title=streak-stats&hide_border=false&layout=compact" />
