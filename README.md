@@ -1,10 +1,9 @@
-# Hey there! Welcome to my GitHub Profile! 👋 My name is Mojisola Alegbe 👋✨
+# Hey there👋
+
+# Welcome to my GitHub Profile, I'm Mojisola Alegbe 😁
 
 
-
----
-
-I am a Frontend Heavy FullStack Software Engineer who loves building software solutions that run on web devices and mobile devices
+A Frontend Heavy FullStack Software Engineer who loves building software solutions that run on web devices and mobile devices
 
 In addition to creating applications, I enjoy mentoring and helping beginner developers, and improving myself.
   - 📚 Learning:
@@ -85,9 +84,14 @@ A **comprehensive dashboard application** for managing billing, services, and cl
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=yemisi567&theme=dark&background=000000&hide_border=false&layout=compact">
 </div>
 
-
 ---
 
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yemisi567&theme=radical&no-frame=true&no-bg=true&margin-w=5&column=6&row=1" width="80%" />
+</p>
+
+---
 ## 🌐 Let’s Connect  
 <p align="center">
   <a href="https://www.linkedin.com/in/mojisola-alegbe/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
@@ -97,8 +101,3 @@ A **comprehensive dashboard application** for managing billing, services, and cl
 </p>
 
 ---
-
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yemisi567&theme=radical&no-frame=true&no-bg=true&margin-w=5&column=6&row=1" width="80%" />
-</p>
