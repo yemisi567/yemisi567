@@ -6,12 +6,16 @@
 A Frontend Heavy FullStack Software Engineer who loves building software solutions that run on web devices and mobile devices
 
 In addition to creating applications, I enjoy mentoring and helping beginner developers, and improving myself.
+
+  - 🛠 Tech Community Builder: 
+  Founder of The Engineers Network, a fast-growing global community of engineers
+
   - 📚 Learning:
   Exploring best practices in software engineering.
   
   - 🌟 Mentorship:
   Actively contributing through one-on-one sessions with beginners.
-  
+
   - 🤝 Collaboration:
   Looking to collaborate on innovative solutions.
   
@@ -21,8 +25,6 @@ In addition to creating applications, I enjoy mentoring and helping beginner dev
   - 🎵 Fun Fact:
   I love dogs and enjoy all kinds of good music.
 
-  - 🛠 Tech Community Builder: 
-  Founder of The Engineers Network, a fast-growing community of engineers across Africa
   
   - 🔍 Availability:
   I’m also available for full-time Frontend/Fullstack Engineering roles.
