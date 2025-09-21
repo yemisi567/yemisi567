@@ -1,14 +1,14 @@
-# Hey there! Welcome to my GitHub Profile! 👋 My name is Mojisola Alegbe! 😄 👋✨
+# Hey there! Welcome to my GitHub Profile! 👋 My name is Mojisola Alegbe 👋✨
 
 
 
 ---
 
-I am a Frontend Heavy FullStack Software Engineer who loves building software solutions that run on web devices and mobile devices!
+I am a Frontend Heavy FullStack Software Engineer who loves building software solutions that run on web devices and mobile devices
 
 In addition to creating applications, I enjoy mentoring and helping beginner developers, and improving myself.
   - 📚 Learning:
-  Exploring best practices in frontend development.
+  Exploring best practices in software engineering.
   
   - 🌟 Mentorship:
   Actively contributing through one-on-one sessions with beginners.
@@ -21,6 +21,9 @@ In addition to creating applications, I enjoy mentoring and helping beginner dev
   
   - 🎵 Fun Fact:
   I love dogs and enjoy all kinds of good music.
+
+  - 🛠 Tech Community Builder: 
+  Founder of The Engineers Network, a fast-growing community of engineers across Africa
   
   - 🔍 Availability:
   I’m also available for full-time Frontend/Fullstack Engineering roles.
@@ -42,16 +45,38 @@ In addition to creating applications, I enjoy mentoring and helping beginner dev
     <a href="https://www.postman.com/" title="Postman" target="_blank"><img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman" width="40" height="40"/></a>
 </div>
 
-----
+---
 
-<div align="center">
-<img width="459" alt="Screenshot 2024-11-16 at 14 53 43" src="https://github.com/user-attachments/assets/cfbfeef9-da7f-4c0e-8878-cad004031764">
-</div>
+## 📌 Featured Projects  
 
+### 📝 [WriteFlow](https://github.com/yemisi567/Writeflow)  
+A **modern, distraction-free writing editor** built with React and TypeScript.  
+⚡ Features: clean interface, real-time editing, and focus mode for writers.  
 
 ---
 
-## 📊 Stats
+### 🍲 [Recipe Blend](https://github.com/yemisi567/Recipe-Blend)  
+A **social platform for food lovers** to find, create, and share recipes from around the world.  
+⚡ Features: recipe discovery, user contributions, and community interaction.  
+
+---
+
+### 📊 [CC-FUSION](https://github.com/yemisi567/CC-FUSION)  
+A **comprehensive dashboard application** for managing billing, services, and client activities.  
+⚡ Features: dynamic charts, client management, and streamlined workflows.  
+
+---
+
+## 🏅 Achievements & Recognition  
+
+- **100 Most Influential Young Women in Africa (2024)** – *Women Who Win Africa*  
+- **#1 JavaScript Creator in Nigeria & #7 Worldwide** – *Favikon*  
+- **Top 10 Tech Professionals in Africa (2025)** – *TIBA Awards*  
+- **Global Industry Nominee (2025)** – *Global Entrepreneurship Festival*  
+
+---
+
+## 📊 GitHub Stats
 
 <div style="justify-content: space-between; margin: 10px; gap: 8px; display: flex;">
   <img style="flex: 1 1 0; width: 48%; height: 195px;" 
@@ -61,13 +86,19 @@ In addition to creating applications, I enjoy mentoring and helping beginner dev
 </div>
 
 
+---
+
+## 🌐 Let’s Connect  
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=yemisi567&theme=dark&background=000000&custom_title=streak-stats&hide_border=false&layout=compact" />
+  <a href="https://www.linkedin.com/in/mojisola-alegbe/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@mojisolaalegbe"><img src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white" /></a>
+  <a href="https://x.com/yehhmisi"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white" /></a>
+  <a href="mailto:alegbeyemi@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-[![](https://github-profile-trophy.vercel.app/?username=yemisi567&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github-profile-trophy.vercel.app/?username=yemisi567)
-
-
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yemisi567&theme=radical&no-frame=true&no-bg=true&margin-w=5&column=6&row=1" width="80%" />
+</p>
