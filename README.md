@@ -56,9 +56,11 @@ A **modern, distraction-free writing editor** built with React and TypeScript.
 
 ---
 
-### 🍲 [Portfolio Oracle](https://github.com/yemisi567/Portfolio-Oracle)  
-A beautiful, **AI-powered platform** hat helps developers discover personalized portfolio project ideas based on their skills, goals, and job market trends
-⚡ Features: AI-Powered project generation, market insights & analytics, project management and user management.  
+### 🍲 [Portfolio Oracle](https://github.com/yemisi567/Portfolio-Oracle) 
+A beautiful, **AI-powered platform** that helps developers discover personalized portfolio project ideas based 
+on their skills, goals and job market trends.
+⚡ Features: AI-Powered project generation, market insights & analytics, project management and user management
+
 ---
 
 ### 📊 [CC-FUSION](https://github.com/yemisi567/CC-FUSION)  
