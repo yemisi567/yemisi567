@@ -3,7 +3,7 @@
 # Welcome to my GitHub Profile, I'm Mojisola Alegbe 😁
 
 
-A Frontend Heavy FullStack Software Engineer who loves building software solutions that run on web devices and mobile devices
+A Frontend Heavy FullStack Engineer who loves building software solutions that run on web devices and mobile devices
 
 In addition to creating applications, I enjoy mentoring and helping beginner developers, and improving myself.
 
