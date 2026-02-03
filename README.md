@@ -77,21 +77,6 @@ A **comprehensive dashboard application** for managing billing, services, and cl
 - **Global Industry Nominee (2025)** – *Global Entrepreneurship Festival*  
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yemisi567&show_icons=true&theme=dark&background=000000" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yemisi567&theme=dark&background=000000&layout=compact" height="165" />
-</p>
----
-
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yemisi567&theme=radical&no-frame=true&no-bg=true&margin-w=5&column=6&row=1" width="80%" />
-</p>
-
----
 ## 🌐 Let’s Connect  
 <p align="center">
   <a href="https://www.linkedin.com/in/mojisola-alegbe/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
