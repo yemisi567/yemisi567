@@ -80,10 +80,10 @@ A **comprehensive dashboard application** for managing billing, services, and cl
 
 ## 📊 GitHub Stats
 
-| Stats | Languages |
-|------|----------|
-| ![](https://github-readme-stats.vercel.app/api?username=yemisi567&show_icons=true&theme=dark&background=000000) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yemisi567&theme=dark&background=000000&layout=compact) |
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yemisi567&show_icons=true&theme=dark&background=000000" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yemisi567&theme=dark&background=000000&layout=compact" height="165" />
+</p>
 ---
 
 ## 🏆 GitHub Trophies  
